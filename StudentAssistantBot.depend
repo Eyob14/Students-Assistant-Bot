@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1613038158 source:e:\programming\all projects\studentassistantbot\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1612616783 source:e:\programming\all projects\studentassistantbot\welcomeinterface.cpp
+	<iostream>
+
+1612616987 source:e:\programming\all projects\studentassistantbot\signininterface.cpp
+	<iostream>
+
+1614461304 source:c:\users\admin\desktop\studentassistantbot\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1614480658 source:c:\users\admin\desktop\new folder\studentassistantbot\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1638009786 source:c:\eyob\programming\all projects\c++ projects\studentassistantbot\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
